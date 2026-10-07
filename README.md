@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ## Cómo reproducir todos los resultados
 
-Un solo comando, sin argumentos, desde la raíz de `Lab02_MyST_EquipoN/`:
+Un solo comando, sin argumentos, desde la raíz de `Lab02_MyST_Equipo1`:
 
 ```bash
 python main.py
