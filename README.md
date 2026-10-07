@@ -36,7 +36,7 @@ congelan y se evalúan una sola vez, sin reoptimizar, sobre el conjunto de prueb
 Requiere **Python 3.11** (el proyecto se desarrolló y probó con Python 3.11.9).
 
 ```bash
-cd Lab02_MyST_EquipoN
+cd Lab02_MyST_Equipo1
 python -m venv .venv
 # Windows:
 .venv\Scripts\activate
@@ -120,7 +120,7 @@ provienen de una ejecución real de `python main.py`.
 ## Estructura del repositorio
 
 ```
-Lab02_MyST_EquipoN/
+Lab02_MyST_Equipo1/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
